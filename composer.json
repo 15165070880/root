@@ -1,0 +1,18 @@
+{
+    "name": "15165070880/root",
+    "description": "demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zq",
+            "email": "514680765@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+	"psr-4":{
+	   "demo\\":"demo"
+	}
+    }
+}
